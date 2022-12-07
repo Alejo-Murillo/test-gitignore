@@ -1,4 +1,5 @@
-/app.config
+*.config
+*.dll
 bin
 Lib
 obj
